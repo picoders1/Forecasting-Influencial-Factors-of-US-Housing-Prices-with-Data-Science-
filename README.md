@@ -94,7 +94,7 @@ The cross-validation process resulted in the following **R-squared** scores for 
 - Fold 4: 0.9947
 - Fold 5: 0.9950
 
-![image](![predicted vs  observed values](https://github.com/picoders1/Forecasting-Influencial-Factors-of-US-Housing-Prices-with-Data-Science-/assets/87698874/d559367f-78f1-48da-904d-61f5686739b5)
+(![predicted vs  observed values](https://github.com/picoders1/Forecasting-Influencial-Factors-of-US-Housing-Prices-with-Data-Science-/assets/87698874/d559367f-78f1-48da-904d-61f5686739b5))
 
 - **mean R-squared** : **0.9954**
 - **standard deviation R squared** : **0.0005**
