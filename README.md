@@ -81,7 +81,7 @@ The positive correlation values indicate a direct relationship with home prices,
 
 ## Model Selection and Cross-Validation
 
-In this project, I made use of **Lasso regression** model due to indications of significant collinearity in the dataset. The Lasso regression model is known for its ability to handle collinearity by applying L1 regularization, which encourages sparsity in feature coefficients.
+In this project, I made use of the **Lasso regression** model due to indications of significant collinearity in the dataset. The Lasso regression model is known for its ability to handle collinearity by applying L1 regularization, which encourages sparsity in feature coefficients.
 
 To optimize the Lasso model's performance and select the best regularization hyperparameter (alpha), we utilized **cross-validation**.
 
@@ -139,6 +139,6 @@ In our analysis, some features in our Lasso regression model had coefficients of
 
 These features do not have a significant impact on the prediction of home prices in our model.
 
-## THANK YOU!!!
+## THANK YOU !!
 
 
