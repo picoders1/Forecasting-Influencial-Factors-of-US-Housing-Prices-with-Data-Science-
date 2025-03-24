@@ -42,7 +42,7 @@ apprentices, helpers, laborers, and so forth, engaged in new work, alterations, 
 - Industrial Production: Cement
 (The industrial production (IP) index measures the real output of all relevant establishments located in the United States)
 - Homeownership Rate (Percentage)
-(The homeownership rate is the proportion of households that is owner-occupied.)
+(The homeownership rate is the proportion of households that are owner-occupied.)
 - Personal Saving Rate (Percent)
 (Personal saving as a percentage of disposable personal income (DPI), frequently referred to as "the personal
 saving rate," is calculated as the ratio of personal saving to DPI. Personal income that is used either to provide
