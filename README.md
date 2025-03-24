@@ -38,7 +38,7 @@ current production and the net current transfer payments that they receive from 
 apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance, etc.)
 - All Employees, Construction (Thousands of persons)
 (Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics,
-apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance.)
+apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, and maintenance.)
 - Industrial Production: Cement
 (The industrial production (IP) index measures the real output of all relevant establishments located in the United States)
 - Homeownership Rate (Percentage)
