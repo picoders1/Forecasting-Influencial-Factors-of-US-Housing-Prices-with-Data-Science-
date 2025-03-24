@@ -24,7 +24,7 @@ In this project, I embark on a data-driven journey to understand the key factors
 current production and the net current transfer payments that they receive from business and from government.)
 - Gross Domestic Product (Featured measure of U.S. output, is the market value of the goods and services produced by labor and property located in the United States.)
 - Unemployment Rate (The unemployment rate represents the number of unemployed as a percentage of the labor force. (16 years age or above))
-- Mortgage Rate (A mortgage rate is the interest rate charged for a home loan.(Percentage))
+- Mortgage Rate (A mortgage rate is the interest rate charged for a home loan. (Percentage))
 - Employment- (Population Ratio (emratio))
 - Building Construction issued permit in US (Total Units)
 - Labor Force Participation Rate (The participation rate is the percentage of the population that is either working or actively looking for work.)
