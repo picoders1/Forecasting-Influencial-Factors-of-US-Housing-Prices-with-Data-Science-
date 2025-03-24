@@ -26,7 +26,7 @@ current production and the net current transfer payments that they receive from 
 - Unemployment Rate (The unemployment rate represents the number of unemployed as a percentage of the labor force. (16 years age or above))
 - Mortgage Rate (A mortgage rate is the interest rate charged for a home loan. (Percentage))
 - Employment- (Population Ratio (emratio))
-- Building Construction issued permit in US (Total Units)
+- Building Construction issued permit in the US (Total Units)
 - Labor Force Participation Rate (The participation rate is the percentage of the population that is either working or actively looking for work.)
 - Monthly Supply of New Houses in the United States (The monthly supply is the ratio of new houses for sale to new houses sold.)
 - Housing starts (New Housing Project) (This is a measure of the number of units of new housing projects started in a given period.)
