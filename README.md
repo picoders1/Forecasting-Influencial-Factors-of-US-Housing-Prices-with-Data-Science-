@@ -34,7 +34,7 @@ current production and the net current transfer payments that they receive from 
 - Producer Price Index -Cement Manufacturing
 - Producer Price Index by Industry: Concrete Brick
 - All Employees, Residential Building Construction (Thousands of People)
-(Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics,
+(Construction employees in the construction sector include Working supervisors, qualified craft workers, mechanics,
 apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance, etc.)
 - All Employees, Construction (Thousands of persons)
 (Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics,
