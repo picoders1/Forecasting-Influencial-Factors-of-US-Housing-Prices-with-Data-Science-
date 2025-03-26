@@ -21,9 +21,9 @@ In this project, I embark on a data-driven journey to understand the key factors
 - Target (S&P/Case-Shiller U.S. National Home Price Index.)
 - Population (Population includes resident population plus armed forces overseas.)
 - Personal Income (Income that persons receive in return for their provision of labor, land, and capital used in
-current production and the net current transfer payments that they receive from business and from government.)
+current production and the net current transfer payments that they receive from business and government.)
 - Gross Domestic Product (Featured measure of U.S. output, is the market value of the goods and services produced by labor and property located in the United States.)
-- Unemployment Rate (The unemployment rate represents the number of unemployed as a percentage of the labor force. (16 years age or above))
+- Unemployment Rate (The unemployment rate represents the number of unemployed as a percentage of the labor force (16 years of age or above))
 - Mortgage Rate (A mortgage rate is the interest rate charged for a home loan. (Percentage))
 - Employment- (Population Ratio (emratio))
 - Building Construction issued permit in the US (Total Units)
