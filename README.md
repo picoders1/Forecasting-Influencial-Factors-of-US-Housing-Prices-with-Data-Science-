@@ -30,7 +30,7 @@ current production and the net current transfer payments that they receive from 
 - Labor Force Participation Rate (The participation rate is the percentage of the population that is either working or actively looking for work.)
 - Monthly Supply of New Houses in the United States (The monthly supply is the ratio of new houses for sale to new houses sold.)
 - Housing starts (New Housing Project) (This is a measure of the number of units of new housing projects started in a given period.)
-- Median Sales Price. (Median Sales Price of Houses Sold for the United States.(US Dollars))
+- Median Sales Price. Median Sales Price of Houses Sold for the United States. (US Dollars)
 - Producer Price Index -Cement Manufacturing
 - Producer Price Index by Industry: Concrete Brick
 - All Employees, Residential Building Construction (Thousands of Peoples)
