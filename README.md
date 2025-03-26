@@ -1,6 +1,6 @@
 # US HOUSE PRICE KEY FACTORS - Data Science Model DEVELOPMENT 
 
-In this project, I embark on a data-driven journey to understand the key factors influencing home prices in the United States over the past two decades. By leveraging publicly available data and advanced data science techniques, MY goal is to build a comprehensive model that sheds light on the intricate relationship between various key factors and home prices.
+In this project, I embark on a data-driven journey to understand the key factors influencing home prices in the United States over the past two decades. By leveraging publicly available data and advanced data science techniques, MY aims to build a comprehensive model that sheds light on the intricate relationship between various key factors and home prices.
 
 - [🔗 Data Cleaning](https://colab.research.google.com/drive/1YoTJzHTePaPhwS-DM2VneieLBCxyJOAR?usp=sharing): Details on data cleaning and preprocessing.
 - [🔗 EDA_and_Feature_Engineering](https://colab.research.google.com/drive/1ExOaY0WC44ibqWGv7AvZlxaca0onzswg?usp=sharing): Information about data relations and distributions.
